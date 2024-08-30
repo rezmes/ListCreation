@@ -77,6 +77,8 @@ New List Description: <br/><input type="text" id="txtnewListDescription"/><br/><
   //   return Version.parse('1.0');
   // }
 
+// *****************{Property Pane}*****************
+
   protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {
     return {
       pages: [
